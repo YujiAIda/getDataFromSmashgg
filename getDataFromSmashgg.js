@@ -104,7 +104,7 @@ function inputDatafromJSONtoSpreadSheet(data){
 
 
 
-//各試合データ取得関数(引数：配信台に割り当てられている試合のインデックス)
+//各試合データ取得関数
 function getMatchData(json){
   const targetelement = json.data.tournament.streamQueue.find((v) => v.stream.streamName == "eastgeeksmash");
 
