@@ -25,7 +25,7 @@ A2:G2が更新されていれば成功。
 - fullRoundText: ラウンド表記。勝者側決勝とか
 - prefix: プレフィックス。スポンサー名とか
 - gamerTag: 名前。
-- twitter: ツイッターID
+- twitter: ツイッターID  
 ※それぞれ2名分
 
 # 参考
